@@ -1,3 +1,4 @@
 # hola-mundo
-Primer repositorio de prueba.
+HOLA MUNDO
+repositorio de prueba.
 Autor: Cristian Amos Lopez Benitez
